@@ -12,10 +12,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Developer
+           
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I'm a final year engineering student interning at Sony with a passion for innovative technology and design. As a fresher, I'm eager to learn and grow as a professional. I have a strong foundation in Data Structures and Algorithms, Object-oriented Programming, and Operating Systems and love working with technologies like ReactJS and Tailwind .</p>
+          Welcome to my portfolio! I'm Pritam Kushwah, well-versed in front-end technologies and backed by a solid foundation in data structures, algorithms, and computer science fundamentals. With 10 months of practical experience, including a rewarding stint at SONY during my journey, let's embark on a voyage through my world of seamless digital experiences!</p>
 
           <div>
             <Link
