@@ -73,6 +73,7 @@ const SocialLinks = () => {
         </ul>
       </div>
       <div className=" sm:hidden bg-gradient-to-b from-gray-800 to-black">
+        <p className="text-center italic text-white p-8  text-xl">if you have an exciting project feel free to get in touch</p>
           {links.map(({ id, child, href, style, download }) => (
             <div
               key={id}
