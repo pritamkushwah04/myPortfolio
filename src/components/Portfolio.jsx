@@ -4,7 +4,7 @@ import SQLQuickView from "../assets/portfolio/SQLQuickView.png";
 import LegalDebrief from "../assets/portfolio/Legal debrief.jpg";
 import CarousalComponent from "../assets/portfolio/CorausalComponent.png"
 import EarBeats from "../assets/portfolio/EarBeats.png"
-import MarketPlaceRedux from "../assets/portfolio/MarketPlaceRedux.png"
+// import MarketPlaceRedux from "../assets/portfolio/MarketPlaceRedux.png"
 const Portfolio = () => {
   const portfolios = [
     {
@@ -25,15 +25,15 @@ const Portfolio = () => {
       dec: "SQLQuickView is a user-friendly SQL table management and querying tool designed to simplify the management of SQL databases. It provides an intuitive interface for interacting with your tables, executing queries, and exporting query results.",
       tech: "React.js, JavaScript, CSS, Papaparse, react-virtualized",
     },
-    {
-      id: 3,
-      src: MarketPlaceRedux,
-      title: "MarketPlaceRedux",
-      code: "https://github.com/pritamkushwah04/MarketPlaceRedux",
-      demo: "https://master--funny-shortbread-d7b3a9.netlify.app/",
-      dec: "This MarketPlaceRedux showcases the power of Redux, React Router DOM, and Axios in action. Experience the art of fetching data from a FAKE API and managing state effortlessly. Explore a wide array of shopping items fetched from the API, and dive deeper into the details of any product with just a click",
-      tech: "Redux, React.js, JavaScript, TailwindCSS",
-    },
+    // {
+    //   id: 3,
+    //   src: MarketPlaceRedux,
+    //   title: "MarketPlaceRedux",
+    //   code: "https://github.com/pritamkushwah04/MarketPlaceRedux",
+    //   demo: "https://master--funny-shortbread-d7b3a9.netlify.app/",
+    //   dec: "This MarketPlaceRedux showcases the power of Redux, React Router DOM, and Axios in action. Experience the art of fetching data from a FAKE API and managing state effortlessly. Explore a wide array of shopping items fetched from the API, and dive deeper into the details of any product with just a click",
+    //   tech: "Redux, React.js, JavaScript, TailwindCSS",
+    // },
     {
       id: 4,
       src: EarBeats,
